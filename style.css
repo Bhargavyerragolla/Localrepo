@@ -1,3 +1,8 @@
 h1{
     color: blue;
+    text-align: center;
+}
+h2{
+    color: brown;
+    text-align: end;
 }
