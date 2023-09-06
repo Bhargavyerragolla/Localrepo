@@ -1,8 +1,13 @@
 h1{
     color: blue;
     text-align: center;
+ font-size: 30px;
 }
 h2{
     color: brown;
-    text-align: end;
+    text-align: center;
+}
+h3{
+    color: darkorange;
+    text-align: center;
 }
